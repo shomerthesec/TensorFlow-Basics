@@ -1,5 +1,5 @@
 # Projects in Tensorflow Specializations Courses on Coursera 
-###**( Deeplearning.ai Developer Certificate for tensorlow & Tensorflow Data and Deployment )**
+###( Deeplearning.ai Developer Certificate for tensorlow & Tensorflow Data and Deployment )
 
 ## Projects done in the two courses:
 * House Prices prediction

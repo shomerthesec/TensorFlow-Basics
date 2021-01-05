@@ -1,7 +1,6 @@
-# Projects in Tensorflow Specializations Courses on Coursera 
-### Deeplearning.ai Developer Certificate for tensorlow & Tensorflow Data and Deployment
+# Projects I've done in the: *Deep Learning & Deeplearning.ai Developer Certificate for tensorflow & Tensorflow Data and Deployment* Specializations.
 
-## Projects done in the two courses:
+## Some of the Projects I've done in the Three Courses:
 * House Prices prediction
 * Mnist & Fashion Mnist classification
 * Facial expressions classification 

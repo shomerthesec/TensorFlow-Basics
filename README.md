@@ -1,5 +1,5 @@
 # Projects I've done in the: 
-# *Deep Learning & Deeplearning.ai Developer Certificate for tensorflow & Tensorflow Data and Deployment* Specializations.
+# *Deep Learning / Deeplearning.ai Developer Certificate for tensorflow / Tensorflow Data and Deployment* Specializations.
 
 ## Some of the Projects I've done in the Three Courses:
 * House Prices prediction
